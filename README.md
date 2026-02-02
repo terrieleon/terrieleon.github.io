@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bienvenido/a a mi portafolio</h1>
+<h1 align="center">👋 Bienvenid@ a mi portafolio</h1>
 
 <p align="center">
   <strong>QUALITY ASSURANCE ENGINEER · QA TESTER </strong>
@@ -139,5 +139,6 @@ Gracias por tomarte el tiempo de visitar mi portafolio.
 Estoy en búsqueda activa de oportunidades como **QA Tester**, donde pueda contribuir con análisis detallado, pensamiento crítico y enfoque en la mejora continua de la calidad del software.
 
 Me interesa colaborar con **consultoras IT**, **startups con visión tecnológica o healthteach** que valoren procesos de testing bien estructurados, documentación clara y donde pueda unir mi conocimiento clínico y mi nueva formación en tecnología.
+
 
 <p align="center"><strong>✨ ¡Conversemos! Estoy lista para sumarme a tu equipo.</strong></p>
